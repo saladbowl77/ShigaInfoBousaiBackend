@@ -1,0 +1,196 @@
+{
+    "updateTime": "2021-06-27T06:11:00+09:00",
+    "comment": "滋賀県では、２７日昼過ぎから２７日夜遅くまで急な強い雨や落雷に注意してください。",
+    "wather": {
+        "南部": {
+            "weatherDataCode": [
+                [
+                    "200",
+                    "212",
+                    "313"
+                ],
+                [
+                    "曇り",
+                    "曇り のち 一時雨",
+                    "雨 のち 一時曇り"
+                ]
+            ],
+            "weatherDataText": [
+                "くもり 所により 雨 で 雷を伴う",
+                "くもり 時々 晴れ 夜 雨 所により 昼過ぎ から 雷 を伴う",
+                "雨 後 くもり"
+            ],
+            "weatherDataWind": [
+                "南東の風",
+                "南東の風",
+                "北の風"
+            ]
+        },
+        "北部": {
+            "weatherDataCode": [
+                [
+                    "200",
+                    "212",
+                    "313"
+                ],
+                [
+                    "曇り",
+                    "曇り のち 一時雨",
+                    "雨 のち 一時曇り"
+                ]
+            ],
+            "weatherDataText": [
+                "くもり 所により 雨 で 雷を伴う",
+                "くもり 時々 晴れ 夜 雨 所により 昼過ぎ から 雷 を伴う",
+                "雨 後 くもり"
+            ],
+            "weatherDataWind": [
+                "南東の風",
+                "南東の風",
+                "北西の風"
+            ]
+        }
+    },
+    "cityWarning": {
+        "otsuS": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "otsuN": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "hikone": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "nagahama": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "omihachiman": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "kusatsu": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "moriyama": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "ritto": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "koka": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "yasu": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "konan": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "takashima": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "higashiomi": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "maibara": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "hino": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "ryuoh": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "aisho": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "toyosato": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "koura": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        },
+        "taga": {
+            "caution": [
+                "雷注意報"
+            ],
+            "warning": [],
+            "emergency": []
+        }
+    }
+}
